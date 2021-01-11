@@ -7,7 +7,7 @@ Assuming the scanned scene is large and contains many points we split our data i
 <img src="https://images.slideplayer.com/11/3315099/slides/slide_5.jpg" width="300" height="200">
 
 # Modified Hausdorff
-http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=576361
+https://ieeexplore.ieee.org/document/576361 for object matching
 
 # KNN Based Disimilarities Detector
 
