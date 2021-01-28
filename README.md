@@ -13,14 +13,12 @@ M. P. Dubuisson and A. K. Jain. A Modified Hausdorff distance for object matchin
 https://ieeexplore.ieee.org/document/576361
 
 # Radial - NN Based Disimilarities Detector
-Find points in one point cloud without neighboors in the other point cloud ,for given radius (default radius = 0.2).
+Nearest neighbors based algorithm with given radius.
 
 # Mean and Std
 
-Divied both point clouds into smaller windows and find each window's mean and std for each window and calculate every vector's mean.
-The absolute value of the difference between the resulted statistic for each point cloud is given.
-
+Mean and Std for windowed data set.
 
 # Intensity Based Detector For 4d Point Clouds (x,y,z,intensity)
-
+Annomalies detector based Yolo (You Only Look Once)`
 
