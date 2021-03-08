@@ -1,5 +1,4 @@
 # Point-clouds-analysis
-All rights reserved to Carmi Shimon and Elior Kalfon.
 
 ![plot](https://github.com/Eliorkalfon/Point-clouds-analysis/blob/main/resulted.png)
 
@@ -21,3 +20,5 @@ Datasets:
 For more info please contact:
 Carmishimon1@gmail.com
 Eliorkalfon@gmail.com
+
+All rights reserved to Carmi Shimon and Elior Kalfon.
