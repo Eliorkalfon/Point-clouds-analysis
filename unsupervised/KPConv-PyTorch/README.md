@@ -7,8 +7,6 @@ We added two files:
 
 # The original repository is (https://github.com/HuguesTHOMAS/KPConv-PyTorch)
 
-![Intro figure](https://github.com/HuguesTHOMAS/KPConv-PyTorch/blob/master/doc/Github_intro.png)
-
 Created by Hugues THOMAS
 
 ## License
