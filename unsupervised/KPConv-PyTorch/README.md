@@ -4,7 +4,8 @@
 We added two files:
 1. algo_pipe which makes the connected components from windows of the desire scene
 2. kpconv_on_cc which gets the standarlized and normalized connected components directory and save the resulted probabilites vector in a given directory
-The original repository is (https://github.com/HuguesTHOMAS/KPConv-PyTorch)
+
+# The original repository is (https://github.com/HuguesTHOMAS/KPConv-PyTorch)
 
 ![Intro figure](https://github.com/HuguesTHOMAS/KPConv-PyTorch/blob/master/doc/Github_intro.png)
 
