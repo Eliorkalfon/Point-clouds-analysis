@@ -1,6 +1,9 @@
-This is not the official KPCONV github repository
-All rights reserved to the official publishers
+# This is not the official KPCONV github repository
+# All rights reserved to the official publisher Hugues THOMAS
 
+We added two files:
+1. algo_pipe which makes the connected components out from the given windows
+2. kpconv_on_cc which gets the connected components dir and save the probabilites vector in a given directory
 
 ![Intro figure](https://github.com/HuguesTHOMAS/KPConv-PyTorch/blob/master/doc/Github_intro.png)
 
