@@ -1,7 +1,7 @@
 # Point-clouds-analysis
 All rights reserved to Carmi Shimon and Elior Kalfon.
 
-![alt text](https://github.com/Eliorkalfon/Point-clouds-analysis/blob/resulted.png?raw=true)
+![alt text](https://github.com/Eliorkalfon/Point-clouds-analysis/resulted.png?raw=true)
 
 Algorithmic methods for finding anomalies in point clouds.
 This project provides two alternatives:
