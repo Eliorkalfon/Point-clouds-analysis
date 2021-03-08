@@ -12,7 +12,7 @@ M. P. Dubuisson and A. K. Jain. A Modified Hausdorff distance for object matchin
     In ICPR94, pages A:566-568, Jerusalem, Israel, 1994.
 https://ieeexplore.ieee.org/document/576361
 
-# Radial - NN Based Disimilarities Detector
+# Radius Nearest neighbors Based Disimilarities Detector
 Nearest neighbors based algorithm with given radius.
 
 # Mean and Std
