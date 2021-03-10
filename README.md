@@ -1,6 +1,6 @@
 # Point-clouds-analysis
 
-![plot](https://github.com/Eliorkalfon/Point-clouds-analysis/blob/main/ezgif.com-gif-maker (1).gif)
+![plot](https://github.com/Eliorkalfon/Point-clouds-analysis/blob/main/ezgif.com-gif-maker.gif)
 
 Algorithmic methods for finding anomalies in point clouds.
 This project provides two alternatives:
