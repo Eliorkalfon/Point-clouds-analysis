@@ -18,7 +18,7 @@ Datasets:
 2. SemanticKitti 3d
 
 For more info please contact:
-Carmishimon1@gmail.com
-Eliorkalfon@gmail.com
+1. Carmishimon1@gmail.com https://github.com/CarmiShimon
+2. Eliorkalfon@gmail.com https://github.com/Eliorkalfon
 
 All rights reserved to Carmi Shimon and Elior Kalfon.
